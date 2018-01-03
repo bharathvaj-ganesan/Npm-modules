@@ -8,3 +8,4 @@ This repository contains opensource npm modules contributed by me.:100::sunglass
 * [string-ellipsis](https://www.npmjs.com/package/string-ellipsis) - String truncation using ellipsis
 * [string-ellipsis](https://www.npmjs.com/package/string-ellipsis) - String truncation using ellipsis
 * [effortless-require](https://www.npmjs.com/package/effortless-require) - Effortlessly require node modules. No more multiple requires in code. 
+* [mail-test-cli](https://www.npmjs.com/package/mail-test-cli) - Cli tool to validate email making use of powerful Mail Test API. 
